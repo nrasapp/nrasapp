@@ -13,7 +13,7 @@ Here are some of my key skills and interests:
 
 ## Projects
 I'm happy to create these projects, and I hope you will also enjoy using them.
-- Coming soon.
+- [python-projects](https://github.com/nrasapp/python-projects)
 
 ## Contact
 If you would like to get in touch with me or discuss collaboration opportunities, please reach out to me via:
